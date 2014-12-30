@@ -51,3 +51,5 @@ http://structureddata.org
 http://www.morganslibrary.org/library.html oradebug  
 http://tech.e2sn.com/oracle/troubleshooting/oradebug-doc  
 http://www.orafaq.com/  
+
+(c)2014 cashfit
