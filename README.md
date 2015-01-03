@@ -16,7 +16,7 @@ offical blogs
 | https://blogs.oracle.com/db/                                     |  Oracle DB/EM Support        |
 | https://blogs.oracle.com/maa/                                    |  Maximum Availability Architecture  |
 | https://blogs.oracle.com/patch/                                  |  Solaris Patch Corner           |
-| https://blogs.oracle.com/UPGRADE/                                |  Ease your Oracle Database upgrades - Best Practices, Workshops, Projects ...      |
+| https://blogs.oracle.com/UPGRADE/                                |  Oracle Database upgrades Best Practices      |
 | https://blogs.oracle.com/datawarehousing/                        |  Data Warehouse Insider      |
 | https://blogs.oracle.com/fusionmiddleware/                       |  Oracle Fusion Middleware   |
 | https://blogs.oracle.com/DBStorage/                              |  Database Storage Optimization  |
