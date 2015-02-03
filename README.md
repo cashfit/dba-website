@@ -65,3 +65,5 @@ other web
 | http://www.morganslibrary.org/library.html                         | oradebug |
 | http://tech.e2sn.com/oracle/troubleshooting/oradebug-doc           | oradebug   |
 | http://www.orafaq.com/                                             | Oracle FAQ  |
+
+(c) 2015 cashfit
