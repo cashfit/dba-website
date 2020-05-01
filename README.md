@@ -66,4 +66,4 @@ other web
 | http://tech.e2sn.com/oracle/troubleshooting/oradebug-doc           | oradebug   |
 | http://www.orafaq.com/                                             | Oracle FAQ  |
 
-(c) 2015 cashfit
+(c) 2015, 2020 cashfit
