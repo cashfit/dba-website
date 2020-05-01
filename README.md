@@ -1,7 +1,7 @@
 DBA website
 ===========
 
-offical blogs
+Offical Blogs
 -----
 
 | Name | Description |
@@ -52,7 +52,7 @@ offical blogs
 | https://blogs.oracle.com/virtualization/                         |  Oracle's Virtualization Blog |
 | https://blogs.oracle.com/oracleopenworld/                        |  Oracle OpenWorld Blog |
 
-other web
+Other Website
 -----
 
 | Name | Description |
