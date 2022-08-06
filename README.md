@@ -6,6 +6,9 @@ Offical Blogs
 
 | Name | Description |
 | --------   | -------  |
+| https://blogs.oracle.com/coretec/     |  Database & Cloud Technology Blog  |
+| https://blogs.oracle.com/database/  |  Oracle Database Insider  |
+| https://blogs.oracle.com/in-memory/  |  Oracle Database In-Memory  |
 | https://blogs.oracle.com/ebs/                                    |  Oracle E-Business Suite Support Blog                 |
 | https://blogs.oracle.com/observability/                                   |  Observability and Management     |
 | https://blogs.oracle.com/optimizer/                              |  Oracle Optimizer            |
@@ -16,11 +19,16 @@ Offical Blogs
 | https://blogs.oracle.com/dataintegration/                        |  Data Integration           |
 | https://blogs.oracle.com/timesten/                               |  TimesTen                 |
 | https://blogs.oracle.com/ebstech/                                |  Oracle E-Business Suite Technology   |
+| https://blogs.oracle.com/weblogicserver/  |  The WebLogic Server Blog  |
+| https://blogs.oracle.com/mysql/  |  The Oracle MySQL Blog |
 | https://blogs.oracle.com/java/                                   |  The Java Source         |
 | https://blogs.oracle.com/machinelearning/                        |  Oracle Machine Learning   |
 | https://blogs.oracle.com/oracle-systems/                         |  Oracle Systems     |
 | https://blogs.oracle.com/security/                               |  Oracle Security Blog |
 | https://blogs.oracle.com/virtualization/                         |  Oracle's Virtualization Blog |
+| https://blogs.oracle.com/blogbypuneeth/   |   Hands-on with Oracle WebLogic Server  |
+
+
 
 Other Website
 -----
