@@ -6,7 +6,7 @@ Offical Blogs
 
 | Name | Description |
 | --------   | -------  |
-| (https://blogs.oracle.com/coretec/)     |  Database & Cloud Technology Blog  |
+| <https://blogs.oracle.com/coretec/>     |  Database & Cloud Technology Blog  |
 | https://blogs.oracle.com/database/  |  Oracle Database Insider  |
 | https://blogs.oracle.com/in-memory/  |  Oracle Database In-Memory  |
 | https://blogs.oracle.com/ebs/                                    |  Oracle E-Business Suite Support Blog                 |
