@@ -44,4 +44,4 @@ Other Website
 | <http://tech.e2sn.com/oracle/troubleshooting/oradebug-doc>{:target="_blank"}           | oradebug   |
 | <http://www.orafaq.com/>{:target="_blank"}                                             | Oracle FAQ  |
 
-(c) 2015, 2020, 2022 cashfit
+(c) 2015, 2020, 2023 cashfit
