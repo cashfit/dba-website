@@ -35,10 +35,10 @@ Other Website
 
 | Name | Description |
 | --------   | -------  |
-| <https://www.mikedietrichde.com/>{:target="_blank"}                                           | Upgrade your Database - NOW!  |
-| <https://www.oracle-base.com/>{:target="_blank"}                                    | oracle-base by Tim Hall |
-| <https://blog.tanelpoder.com/>{:target="_blank"}                                        | TANEL PODER            |
-| <http://www.oraclerealworld.com/>{:target="_blank"}                                    | Kyle Hailey            |
+| <https://www.mikedietrichde.com>{:target="_blank"}                                           | Upgrade your Database - NOW!  |
+| <https://www.oracle-base.com>{:target="_blank"}                                    | oracle-base by Tim Hall |
+| <https://blog.tanelpoder.com>{:target="_blank"}                                        | TANEL PODER            |
+| <http://www.oraclerealworld.com>{:target="_blank"}                                    | Kyle Hailey            |
 | <http://structureddata.org>{:target="_blank"}                                          | Structured Data by Greg Rahn  |
 | <http://www.morganslibrary.org/library.html>{:target="_blank"}                         | oradebug |
 | <http://tech.e2sn.com/oracle/troubleshooting/oradebug-doc>{:target="_blank"}           | oradebug   |
