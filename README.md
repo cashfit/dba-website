@@ -35,8 +35,8 @@ Other Website
 
 | Name | Description |
 | --------   | -------  |
-| <http://www.oaktable.net/>{:target="_blank"}                                           | Oaktable  |
-| <https://www.oracle-base.com/blog>{:target="_blank"}                                    | oracle-base by Tim Hall |
+| <https://mikedietrichde.com/>{:target="_blank"}                                           | Upgrade your Database - NOW!  |
+| <https://www.oracle-base.com/>{:target="_blank"}                                    | oracle-base by Tim Hall |
 | <https://blog.tanelpoder.com/>{:target="_blank"}                                        | TANEL PODER            |
 | <http://www.oraclerealworld.com/>{:target="_blank"}                                    | Kyle Hailey            |
 | <http://structureddata.org>{:target="_blank"}                                          | Structured Data by Greg Rahn  |
