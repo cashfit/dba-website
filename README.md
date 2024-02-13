@@ -6,10 +6,11 @@ Offical Blogs
 
 | Name | Description |
 | --------   | -------  |
-| <https://blogs.oracle.com/coretec/>{:target="_blank"}     |  Database & Cloud Technology Blog  |
+| <https://blogs.oracle.com/coretec/>{:target="_blank"}     |  Database & Cloud Technology  |
 | <https://blogs.oracle.com/database/>{:target="_blank"}  |  Oracle Database Insider  |
 | <https://blogs.oracle.com/in-memory/>{:target="_blank"}  |  Oracle Database In-Memory  |
-| <https://blogs.oracle.com/ebs/>{:target="_blank"}                                    |  Oracle E-Business Suite Support Blog                 |
+| <https://blogs.oracle.com/cloud-infrastructure/>{:target="_blank"}  |  Oracle Cloud Infrastructure  |
+| <https://blogs.oracle.com/ebs/>{:target="_blank"}                                    |  Oracle E-Business Suite Support                 |
 | <https://blogs.oracle.com/observability/>{:target="_blank"}                                   |  Observability and Management     |
 | <https://blogs.oracle.com/optimizer/>{:target="_blank"}                              |  Oracle Optimizer            |
 | <https://blogs.oracle.com/linux/>{:target="_blank"}                                  |  Oracle's Linux Blog       |
